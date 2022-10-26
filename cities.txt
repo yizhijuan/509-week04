@@ -2,3 +2,4 @@ Seattle
 Bellevue
 Redmond
 Kirkland
+Beijing
